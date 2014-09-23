@@ -25,6 +25,7 @@ class CC1Q3 {
             rhdArray[rightIndex]++;
         }
         
+        // If number of characters does not match, false
         for (int i = 0; i < asciiTotal; i++) {
             if (lhdArray[i] != rhdArray[i]) {
                 return false;
