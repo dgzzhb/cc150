@@ -1,6 +1,7 @@
 /**
  * Tian Zheng Sep.23, 2014
  * Check wher one string is a permutation of another
+ * Learned: add email to GitHub when config local git!
  */
 
 class CC1Q3 {
